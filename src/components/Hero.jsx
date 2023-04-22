@@ -32,11 +32,11 @@ const Hero = () => {
 
   return (
     <section className='min-h-screen flex flex-col justify-start items-center p-5 text-center'>
-        <h2 className='text-5xl text-rose-600 uppercase font-bold'>Tony Stark</h2>
+        <h2 className='text-5xl text-rose-600 uppercase font-bold'>Sidhant N Bastwadkar</h2>
         <h3 className='py-3 text-2xl'>Software Engineer</h3>
         <p className='max-w-xl font-light text-gray-500'>
             Hello<span className='animate-pulse text-4xl'>👋</span>,
-            welcome to my site, I am React front End Developer. I love to work on Web dev.
+            welcome to my site, I am Front End React Js Developer. I love to work on Web dev.
         </p>
 
        {/*social icons*/}

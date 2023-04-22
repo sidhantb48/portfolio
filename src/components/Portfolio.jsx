@@ -16,41 +16,41 @@ export const Portfolio = () => {
         {
             id:1,
             image:p1,
-            title:"Best App",
+            title:"Food App",
             github:"https://github.com/nodejs/node",
             demo:"https://nodejs.org/en/"
         },
         {
             id:2,
             image:p2,
-            title:"Best App",
+            title:"Tracker App",
             github:"https://google.com",
             demo:"https://nodejs.org/en/"
         },
         {
             id:3,
             image:p3,
-            title:"Age of Empire",
+            title:"Statistics App",
             github:"https://apple.com",
             demo:"https://nodejs.org/en/"
         },{
             id:4,
             image:p4,
-            title:"Best App",
+            title:"E-commerce App",
             github:"https://github.com/nodejs/node",
             demo:"https://nodejs.org/en/"
         },
         {
             id:5,
             image:p5,
-            title:"Best App",
+            title:"Editor App",
             github:"https://github.com/nodejs/node",
             demo:"https://nodejs.org/en/"
         },
         {
             id:6,
             image:p6,
-            title:"Age of Empires",
+            title:"Design App",
             github:"https://github.com/nodejs/node",
             demo:"https://nodejs.org/en/"
         }

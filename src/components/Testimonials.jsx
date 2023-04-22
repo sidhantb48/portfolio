@@ -8,8 +8,8 @@ export const Testimonials = () => {
         {
             id:1,
             image:avatar,
-            name:"John RockFeller",
-            comment:"John values 'Hard work' & 'Quality' that makes you more responsible at work & offers a great place with friendly environment & supportive clients to grow and develop your knowledge and skills."
+            name:"Abhishek",
+            comment:"He values 'Hard work' & 'Quality' that makes you more responsible at work & offers a great place with friendly environment & supportive clients to grow and develop your knowledge and skills."
         },
         {
             id:2,
